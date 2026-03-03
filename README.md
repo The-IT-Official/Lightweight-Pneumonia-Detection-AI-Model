@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🫁 Lightweight Pneumonia Detection AI Model
 
 > Deep learning model developed in collaboration with Stanford faculty to enable multi-level pneumonia classification in under-resourced hospitals. Optimized for deployment in environments with limited compute, minimal infrastructure, and low-bandwidth constraints.
@@ -183,4 +182,3 @@ MIT License © 2026 Logits — see [LICENSE](LICENSE) for full details.
 =======
 # Lightweight-Pneumonia-Detection-AI-Model
 Deep learning model developed in collaboration with Stanford faculty to enable multi-level pneumonia classification in under-resourced hospitals. Optimized for deployment constraints including limited computational resources, minimal infrastructure, and low-bandwidth environments. 
->>>>>>> 11fad683e75b5d9c0601e18b33923639db3ab18f
