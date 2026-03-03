@@ -1,0 +1,6 @@
+torch
+torchvision
+kagglehub
+pandas
+Pillow
+scikit-learn
